@@ -1,2 +1,2 @@
 # MiaTickets
-Monorepo for the MiaTickets project
+Monorepo for the MiaTickets (working title) project.
