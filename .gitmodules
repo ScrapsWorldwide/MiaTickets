@@ -1,0 +1,3 @@
+[submodule "MiaTickets-Web"]
+	path = MiaTickets-Web
+	url = git@github.com:ScrapsWorldwide/MiaTickets-Web.git
