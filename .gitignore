@@ -1,2 +1,5 @@
 # Hidden submodules
 /MiaTickets-API/**/*
+
+# IDE settings
+.vscode/settings.json
